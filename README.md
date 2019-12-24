@@ -14,6 +14,7 @@ Are there certain times of the year when business might be slower, or the type o
 ## Observations
 
 The average temprerature in Oahu for June is 75F and December is 71F. During both months the temperature is about the same, plus is the peak time of tourist in Hawaii. 
+
 For further analysis we recommend the following:
 
 * Consider the 'no peak' time of visitors and understand their behavior and consumption. 
