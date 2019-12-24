@@ -1,4 +1,4 @@
-# surfs_up_MariaCalderon
+# Surfs Up
 
 ## Objectives
 
